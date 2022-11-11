@@ -1,0 +1,44 @@
+.travel_maindiv{
+    border: 1px solid lightgray;
+
+}
+.travel_maindiv img{
+    width: 80%;
+    height: 80%;
+
+}
+.travel_maindiv h5,.travel_maindiv p{
+    margin: 20px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_text span{
+    color: orange;
+
+}
+.movie_head i{
+    float: right;
+}
+.book{
+    width: 50%;
+    height: 50%;
+    margin-bottom: 20px;
+}
+#contact iframe {
+    width: 100%;
+
+}
+p {
+    font-size: 20px;
+    font-style: italic;
+    font-family: ALGERIAN;
+}
+.page-header{
+    font-style: oblique;
+    font-style: bold;
+    font-family:Castellar;
+}
